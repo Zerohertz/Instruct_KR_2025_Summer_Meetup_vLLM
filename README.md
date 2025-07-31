@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-    <a href="https://github.com/instructkr" target="_blank">
+    <a href="https://lu.ma/lahqslya" target="_blank">
         <img src="img/poster.jpg"/>
     </a>
 </div>
