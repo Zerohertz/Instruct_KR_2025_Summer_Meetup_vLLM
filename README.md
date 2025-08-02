@@ -2,7 +2,7 @@
 <h4 align="center">Instruct.KR Summer Meetup, 2025</h4>
 
 <p align="center">
-    <a href="https://www.slideshare.net/slideshow/llm-vllm-production-instruct-kr-summer-meetup-2025/282141617" target="_blank">
+    <a href="https://www.slideshare.net/slideshow/llm-vllm-production-instruct-kr-summer-meetup-2025-9d16/282169536" target="_blank">
         <img src="https://img.shields.io/badge/SlideShare-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white"/>
     </a>
 </p>
